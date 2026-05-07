@@ -124,7 +124,7 @@ If you use this project or dataset in academic work, make sure to properly cite 
 ## Author:
 
 **Andres Quintanar**
-Neuroscience & Data Science Student
+Neuroscience & Data Science USC Alum
 
 ---
 
